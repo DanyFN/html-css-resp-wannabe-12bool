@@ -11,6 +11,9 @@
   float: left;
 } */
 
+h1, p, hr{
+  margin-bottom: 40px;
+}
 #lezioni .row img {
   /* per centrare orizzontalmente */
   display: block;
